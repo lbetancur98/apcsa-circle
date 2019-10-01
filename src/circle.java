@@ -11,10 +11,9 @@ public class circle {
 
 
         double circleArea = Math.PI * (Math.pow((circleDiameter / 2), 2));
-        System.out.println(circleDiameter);
-        System.out.println(circleArea);
+        
 
-        System.out.printf("The area of  a cirlce with the diameter of %,.1f is %,.1f", circleDiameter, circleArea);
+        System.out.printf("The area of a circle with the diameter of %,.1f is %,.1f.", circleDiameter, circleArea);
 
 
 
